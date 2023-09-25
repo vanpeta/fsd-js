@@ -1,0 +1,1 @@
+This project is based on the [youtube playlist] https://www.youtube.com/playlist?list=PLB0Tybl0UNfZtY5IQl1aNwcoOPJNtnPEO by youtuber [Radu Mariescu-Istodor](https://www.youtube.com/@Radu).
